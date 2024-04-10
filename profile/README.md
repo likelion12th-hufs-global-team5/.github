@@ -1,4 +1,4 @@
-# Likelion 12th _  mini-project _ 5team
+# 🦁Likelion 12th _  mini-project _ 5team
 
 > **주제** : 멋쟁이사자처럼대학 한국외대 글로벌캠퍼스 홈페이지
 
